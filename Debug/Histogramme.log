@@ -1,0 +1,8 @@
+﻿  Histogramme.cpp
+  Histo.cpp
+c:\users\sam\source\repos\histogramme\histogramme\histo.cpp(33): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\source\repos\histogramme\histogramme\histo.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\sam\source\repos\histogramme\histogramme\histo.cpp(95): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Histogramme.vcxproj -> C:\Users\sam\source\repos\Histogramme\Debug\Histogramme.exe
+  Histogramme.vcxproj -> C:\Users\sam\source\repos\Histogramme\Debug\Histogramme.pdb (Partial PDB)
